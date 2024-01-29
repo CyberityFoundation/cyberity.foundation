@@ -1,3 +1,6 @@
+![cyberity foundation logo](https://raw.githubusercontent.com/CyberityFoundation/cyberity.foundation/main/assets/img/logo_cyberity_vector.svg)
+
+
 # cyberity.foundation
 
 Cyberity was founded to focus on public education, awareness, grassroot community-powered activities, and advocacy, with the following scope:
@@ -9,3 +12,5 @@ Cyberity was founded to focus on public education, awareness, grassroot communit
 - Digital Incident
 
 This is the Cyberity Foundation website.
+
+[www.cyberity.foundation](www.cyberity.foundation)
