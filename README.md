@@ -1,4 +1,4 @@
-![cyberity foundation logo](https://www.cyberity.foundation/assets/img/logo_cyberity_vector_circle_trans_small.svg)
+![cyberity foundation logo](https://github.com/CyberityFoundation/cyberity.foundation/blob/main/assets/img/logo_cyberity_vector_circle_trans_small.png)
 
 
 # cyberity.foundation
