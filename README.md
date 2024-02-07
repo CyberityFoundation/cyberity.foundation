@@ -15,4 +15,4 @@ Cyberity was founded to focus on public education, awareness, grassroot communit
 
 This is the Cyberity Foundation website.
 
-[www.cyberity.foundation](www.cyberity.foundation)
+[www.cyberity.foundation](http://www.cyberity.foundation)
