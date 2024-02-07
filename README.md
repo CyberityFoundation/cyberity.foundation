@@ -1,5 +1,5 @@
 <p align="center">
-  <<img src="https://github.com/CyberityFoundation/cyberity.foundation/blob/main/assets/img/logo_cyberity_vector_circle_trans_small.png" alt="drawing" width="50%"/>
+  <img src="https://github.com/CyberityFoundation/cyberity.foundation/blob/main/assets/img/logo_cyberity_vector_circle_trans_small.png" alt="drawing" width="50%"/>
 </p>
 
 
