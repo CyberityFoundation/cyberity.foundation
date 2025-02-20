@@ -11050,11 +11050,11 @@ html {
 }
 
 .imago {
-  -webkit-filter: brightness(40%);
-	-moz-filter: brightness(40%);
-	-o-filter: brightness(40%);
-	-ms-filter: brightness(40%);
-	filter: brightness(40%);
+  -webkit-filter: brightness(50%);
+	-moz-filter: brightness(50%);
+	-o-filter: brightness(50%);
+	-ms-filter: brightness(50%);
+	filter: brightness(50%);
 }
 
 .imago:hover{
