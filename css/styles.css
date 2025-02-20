@@ -11048,3 +11048,19 @@ html {
   color: #000 !important;
   background-color: RGBA(13, 202, 240, var(--bs-bg-opacity, 1)) !important;
 }
+
+.imago {
+  -webkit-filter: brightness(40%);
+	-moz-filter: brightness(40%);
+	-o-filter: brightness(40%);
+	-ms-filter: brightness(40%);
+	filter: brightness(40%);
+}
+
+.imago:hover{
+    -webkit-filter: brightness(100%);
+	-moz-filter: brightness(100%);
+	-o-filter: brightness(100%);
+	-ms-filter: brightness(100%);
+	filter: brightness(100%);
+}
